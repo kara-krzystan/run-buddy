@@ -1,7 +1,28 @@
-# Run Buddy
+# Module 1+2 Project: Run Buddy
 
-## Purpose
-A website that offers fitness training services.
+## Description
+My first class project was to build a website for Run Buddy, a company that offers fitness training services. This assignment spanned two weeks. First, I created the site using basic HTML and CSS, then later updated it using advanced CSS layouts learned in Week 2.
+
+## Overview of Concepts Learned
+* Basics of HTML and CSS, and how they interact with each other
+* How to build and style a professional static webpage with only HTML and CSS
+* Semantic HTML and best practices for HTML and CSS file structure
+* HTML and website accessibility standards
+* How to implement CSS styling via class, id, and element selectors
+* How to use external stylesheets, inline styles, and embedded style tags
+* Optimizing code using CSS variables
+* Basic CSS animations and interactive elements
+* Complex layouts and responsive design with CSS grid and flexbox
+* How to use media queries to make a fully mobile-responsive website
+
+### Additional Class Activities
+* Using the command line to interface with the operating system
+* Git workflow and version control
+* Hosting remote repositories on GitHub
+
+## Project Screenshot
+
+_coming soon_
 
 ## Built With
 * HTML
