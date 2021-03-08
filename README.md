@@ -22,7 +22,7 @@ My first class project was to build a website for Run Buddy, a company that offe
 
 ## Project Screenshot
 
-_coming soon_
+![screenshot](https://github.com/kara-krzystan/run-buddy/blob/master/assets/images/runbuddy-v2-screenshot.png)
 
 ## Built With
 * HTML
@@ -31,5 +31,5 @@ _coming soon_
 ## Website
 https://kara-krzystan.github.io/run-buddy/
 
-## Contribution
-Made with ❤️ by Kara Krzystan
+## Contact
+[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
